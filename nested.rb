@@ -68,7 +68,7 @@ def adding_matz
 # }
 # return the entire updated hash
 
-	programmer_hash_02 =
+	dog_hash =
  		{
       :grace_hopper => {
         :known_for => "COBOL",
